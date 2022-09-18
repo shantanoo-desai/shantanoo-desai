@@ -5,7 +5,7 @@ I am Shantanoo Desai, but you can call me __Shan__ for a much better optimized e
 Professionally, I am a _non-conventional_ Software Engineer who works in the field of __Internet of Things__ / __Edge Computing__.
 Personally, I am a practicing __Stoic__ and a __Minimalist__.
 
-You can find all sorts of projects that I either work or or have previously worked on here.
+You can find all sorts of projects that I either work or have previously worked on here.
 
 ## Read About my Exploits in Technology
 
