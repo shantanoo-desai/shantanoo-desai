@@ -16,6 +16,7 @@ things conveniently and digitally _handy_.
 
 ### Recent Posts
 
+- [How Reproducibility + Documentation in Software goes deep: Practical Scenario](https://shantanoo-desai.github.io/posts/technology/reproducibility_docker/)
 - [Build a Bootable OS with Docker Containers using Hashicorp Packer](https://shantanoo-desai.github.io/posts/technology/containers-to-os/)
 - [Customized Ubuntu Images using Packer + QEMU + Cloud-Init & UEFI boot-loading](https://shantanoo-desai.github.io/posts/technology/packer-ubuntu-qemu/)
 - [Exploring the marshland: Docker Compose versions with single quotes, special characters and environment variables](https://shantanoo-desai.github.io/posts/technology/compose-incompatibility/)
