@@ -15,13 +15,10 @@ things conveniently and digitally _handy_.
 
 
 ### Recent Posts
+- [on Ansible Inventories](https://shantanoo-desai.github.io/posts/technology/ansible_inventories/)
 - [on Docker Compose Configs](https://shantanoo-desai.github.io/posts/technology/docker_compose_configs/)
 - [Deep Dive with Ansible: Patching an Ansible Collection](https://shantanoo-desai.github.io/posts/technology/ansible_collection_patch/)
 - [Forward Compatibility for Mosquitto MQTT Broker with Docker Compose v2](https://shantanoo-desai.github.io/posts/technology/mosquitto-fwd-compatibility-docker/)
 - [Generating Mosquitto MQTT Broker Credentials with Ansible](https://shantanoo-desai.github.io/posts/technology/mosquitto_ansible_passgen/)
 - [Build a Bootable OS with Docker Containers using Hashicorp Packer](https://shantanoo-desai.github.io/posts/technology/containers-to-os/)
 - [Customized Ubuntu Images using Packer + QEMU + Cloud-Init & UEFI boot-loading](https://shantanoo-desai.github.io/posts/technology/packer-ubuntu-qemu/)
-
-## What am I doing these days?
-
-[What am I doing professionally and personally NOW](https://shantanoo-desai.github.io/now/)
